@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainForm.cs](./CS/MessageBoxHelper/MainForm.cs) (VB: [MainForm.vb](./VB/MessageBoxHelper/MainForm.vb))**
+* [MyXtraMessageArgs.cs](./CS/MessageBoxHelper/MyMessageBox/MyXtraMessageArgs.cs) (VB: [MyXtraMessageArgs.vb](./VB/MessageBoxHelper/MyMessageBox/MyXtraMessageArgs.vb))
+* [MyXtraMessageBox.cs](./CS/MessageBoxHelper/MyMessageBox/MyXtraMessageBox.cs) (VB: [MyXtraMessageBoxForm.vb](./VB/MessageBoxHelper/MyMessageBox/MyXtraMessageBoxForm.vb))
+* [MyXtraMessageBoxForm.cs](./CS/MessageBoxHelper/MyMessageBox/MyXtraMessageBoxForm.cs) (VB: [MyXtraMessageBoxForm.vb](./VB/MessageBoxHelper/MyMessageBox/MyXtraMessageBoxForm.vb))
+<!-- default file list end -->
 # How to create a custom XtraMessageBox with the extended functionality
 
 
