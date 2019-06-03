@@ -1,4 +1,3 @@
-
 <!-- default file list -->
 *Files to look at*:
 
@@ -9,7 +8,11 @@
 <!-- default file list end -->
 # How to create a custom XtraMessageBox with the extended functionality
 
-**Starting with version _15.2_, we implemented the **XtraMessageBoxArgs.Showing** event that is designed to customize the dialog form before it is shown. This allows you to disable/enable buttons, specify the form's start position etc. Also, in version _18.1_, we introduced the **Auto Close** feature for the **XtraMessageBox** dialog. Use the **XtraMessageBoxArgs.AutoCloseOptions** to customize it.**
+<p><strong>Important note.</strong></p>
+
+Starting with version _15.2_, we implemented the **XtraMessageBoxArgs.Showing** event that is designed to customize the dialog form before it is shown. This allows you to disable/enable buttons, specify the form's start position etc. Also, in version _18.1_, we introduced the **Auto Close** feature for the **XtraMessageBox** dialog. Use the **XtraMessageBoxArgs.AutoCloseOptions** to customize it.
+
+## ***If you still prefer the custom approach described below, please clarify why the built-in solution is not suitable for you. Just click   [here](https://www.devexpress.com/Support/Center/Question/Create) to submit a ticket to our Support Center.***
 
 For earlier versions:
 
